@@ -100,7 +100,7 @@ http
               <!-- Perfil 1 -->
               <div class="profile">
                 <img src="https://via.placeholder.com/150" alt="Perfil 1">
-                <h3>Nombre 1</h3>
+                <h3>grupo 2</h3>
                 <p>Descripción breve del perfil 1. Especialista en desarrollo web y diseño UI/UX.</p>
                 <a href="#">Ver Perfil</a>
               </div>
